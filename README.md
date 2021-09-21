@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan, @rb7211
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: message me on here.
 
